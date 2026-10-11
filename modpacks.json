@@ -1,0 +1,13 @@
+
+{
+  "modpacks": [
+    {
+      "id": "minezin-de-cria",
+      "name": "Minezin de Cria",
+      "minecraft_version": "1.21.1",
+      "loader": "neoforge",
+      "version": "1.0.0",
+      "manifest_url": ""
+    }
+  ]
+}
